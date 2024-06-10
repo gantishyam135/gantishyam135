@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gantishyam135
 - 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... Vue.js
+- 🌱 I’m currently learning ... Angular
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
